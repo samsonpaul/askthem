@@ -1,6 +1,6 @@
 # @todo change rubygems to https when cert fixed on appserver
 source 'https://rubygems.org'
-ruby '1.9.3'
+ruby '2.4.1'
 
 gem 'rails', '3.2.21'
 gem 'jquery-rails'
