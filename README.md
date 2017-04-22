@@ -20,9 +20,9 @@ Depending on your OS , you may also need to install these:
 * libxslt-dev
 * libmagickwand-dev
 
-In the application's directory, set up Ruby 1.9.3 and required gems:
+In the application's directory, set up Ruby 2.4.1 and required gems:
 
-    rvm 1.9.3 # i.e. switch to ruby 1.9.3, your steps may vary
+    rvm 2.4.1 # i.e. switch to ruby 2.4.1, your steps may vary
     bundle
 
 Start the server:
